@@ -2,7 +2,7 @@
 
 R scripts used to generate the graphs in Townson, Gomez-Lamarca and Bray, 2023.
 
-
+[![DOI](https://zenodo.org/badge/597759738.svg)](https://zenodo.org/badge/latestdoi/597759738)
 
 Figure 1D: Optogenetic movie analysis_OldBLITz
 
